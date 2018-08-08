@@ -1,4 +1,4 @@
-<template>
+npm<template>
   <div>
     <Tabs></Tabs>
     <div class="content">
