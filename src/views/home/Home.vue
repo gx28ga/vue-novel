@@ -13,6 +13,9 @@
       </book-list>
     </div>
     <div class="section"></div>
+    <dialog>
+
+    </dialog>
   </div>
 </template>
 <style>
@@ -42,6 +45,7 @@ import { Component, Vue } from 'vue-property-decorator';
 import Announcement from './Announcement.vue';
 import BookList from './BookList.vue';
 import Slider from './Slider.vue';
+import Dialog from '@/components/Dialog.vue'
 
 @Component({
   components:{
